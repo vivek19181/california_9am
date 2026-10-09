@@ -6,4 +6,5 @@ flask
 fastapi
 uvicorn
 pandas
+gunicorn
 
